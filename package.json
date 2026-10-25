@@ -1,0 +1,14 @@
+{
+  "name": "dreinn-ai",
+  "version": "1.0.0",
+  "description": "Dreinn AI — Telegram-бот с нейросетями, Mini App и админ-панелью",
+  "type": "module",
+  "main": "bot.js",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
